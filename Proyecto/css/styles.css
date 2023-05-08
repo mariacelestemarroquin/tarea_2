@@ -1,0 +1,39 @@
+body{
+background-image:url("https://i.pinimg.com/564x/83/bb/6c/83bb6c34b83ba2901bd462993b331cf6.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+color: black;
+}
+
+
+div:link{
+	color:black;
+}
+
+div:visited{
+	color:black;
+}
+div:hover{
+	color:black;
+	font-size: 17
+}
+
+/* use this to put borders around things... */
+.thin_border{
+	border: 1px solid black;
+}
+
+.direc{
+
+	color:black;
+	 background-color:;
+	 margin-right: ;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 0px solid black;
+}
+
+
